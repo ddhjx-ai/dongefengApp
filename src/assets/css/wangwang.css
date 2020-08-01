@@ -1,0 +1,23 @@
+.van-nav-bar {
+   /* and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) */
+   padding-top: 0.2rem;
+ }
+
+@media only screen and (device-width: 375px) and (device-height: 812px) {
+  .van-nav-bar {
+
+    padding-top: 0.40rem;
+  }
+}
+
+
+ 
+
+@media only screen and (device-width: 414px) and (device-height: 896px) {
+   .van-nav-bar {
+     padding-top: 0.40rem;
+   }
+ }
+ 
+
+
